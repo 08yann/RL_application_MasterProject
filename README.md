@@ -1,6 +1,6 @@
 # Reinforcement learning methods applied to a portfolio management problem
 
-We apply reinforcement learning methods such as Monte-Carlo estimation, Q-Learning and Deep Q-Networks to a portfolio management problem over two stocks. 
+In relation to a Master Project, we apply reinforcement learning methods such as Monte-Carlo estimation, Q-Learning and Deep Q-Networks to a portfolio management problem over two stocks. 
 
 The agent seek to invest at each time-step a fraction of the portfolio in the first stock, thus the action space corresponds to: {0.0,0.1,...,1.0}.
 
